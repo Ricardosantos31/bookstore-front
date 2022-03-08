@@ -28,11 +28,11 @@ button{
 }
 
 .edit{
-    color: rgb(102, 101, 101);
+    color:rgb(240, 205, 8);
 }
 
 .delete{
-    color: rgb(109, 101, 101);
+    color: rgb(180, 35, 35);
     margin-left: .5rem;
 }
 
